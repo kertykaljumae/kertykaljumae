@@ -22,7 +22,7 @@
 ## 📫 Kontakt
  
 - **Email:** kerty.kaljumae@gmail.com
-- **LinkedIn:** [linkedin.com/in/kerty-kaljumäe](https://linkedin.com/in/kerty-kaljumäe)
+- **LinkedIn:** [Minu LinkedIn](https://www.linkedin.com/in/kerty-kaljum%C3%A4e-28a065158/)
  
 ---
  
