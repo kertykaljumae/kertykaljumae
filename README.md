@@ -1,25 +1,25 @@
-# Tere! 👋 Mina olen Kerty Kaljumäe
+# Hello! 👋 I'm Kerty Kaljumäe
  
-## 🎯 Andmeanalüütiku Karjääri Algus
+## 🎯 Starting My Career in Data Analytics
  
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+I'm currently participating in the DACA (Data Analyst Career Accelerator) program and building my first professional portfolio.
  
-## 🛠️ Tehnoloogiad, mida õpin
+## 🛠️ Technologies I'm Learning
  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
  
-- **Andmebaasid:** PostgreSQL, Supabase
-- **Programmeerimiskeeled:** Python (pandas, plotly)
-- **Visualiseerimine:** Power BI, Streamlit
-- **Versioonihaldus:** Git, GitHub
+- **Databases:** PostgreSQL, Supabase
+- **Programming:** Python (pandas, plotly)
+- **Data Visualization:** Power BI, Streamlit
+- **Version Control:** Git, GitHub
  
-## 📂 Projektid
+## 📂 Projects
  
-- [**DACA Portfoolio**](https://github.com/kertykaljumae/daca-portfolio) - 11-nädalane õppeprojekt
+- [**DACA Portfolio**](https://github.com/kertykaljumae/daca-portfolio) - 11-week learning project
  
-## 📫 Kontakt
+## 📫 Contact
  
 - **Email:** kerty.kaljumae@gmail.com
 - **LinkedIn:** [linkedin.com/in/kerty-kaljumäe](https://www.linkedin.com/in/kerty-kaljum%C3%A4e-28a065158/)
