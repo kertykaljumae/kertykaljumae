@@ -12,7 +12,7 @@ I'm currently participating in the DACA (Data Analyst Career Accelerator) progra
  
 - **Databases:** PostgreSQL, Supabase
 - **Programming:** Python (pandas, plotly)
-- **Data Visualization:** Power BI, Streamlit
+- **Data Visualization:** Power BI
 - **Version Control:** Git, GitHub
  
 ## 📂 Projects
