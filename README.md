@@ -22,7 +22,6 @@ I'm currently participating in the DACA (Data Analyst Career Accelerator) progra
 ## 📫 Contact
  
 - **Email:** kerty.kaljumae@gmail.com
-- **LinkedIn:** [linkedin.com/in/kerty-kaljumäe](https://www.linkedin.com/in/kerty-kaljum%C3%A4e-28a065158/)
  
 ---
  
